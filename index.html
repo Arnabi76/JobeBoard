@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Listings</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Job Board Header -->
+    <header class="job-board-header">
+        <h1>Job Board</h1>
+    </header>
+
+    <!-- Filters -->
+    <div class="filters">
+        <label for="locationFilter">Filter by Location:</label>
+        <select id="locationFilter">
+            <option value="all">All Locations</option>
+        </select>
+
+        <label for="workModeFilter">Filter by Work Mode:</label>
+        <select id="workModeFilter">
+            <option value="all">All Work Modes</option>
+            <option value="Remote">Remote</option>
+            <option value="Hybrid">Hybrid</option>
+            <option value="Offline">Offline</option>
+        </select>
+    </div>
+
+    <!-- Job Listings -->
+    <div class="job-listings"></div>
+
+    <script src="jobs.js"></script>
+</body>
+</html>
