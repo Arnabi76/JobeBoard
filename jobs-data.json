@@ -1,0 +1,226 @@
+[
+    {
+        "title": "Software Engineer",
+        "company": "Google",
+        "location": "Mountain View, CA, USA",
+        "description": "Develop scalable software solutions for Google's core products.",
+        "work_mode": "Hybrid"
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Facebook",
+        "location": "Menlo Park, CA, USA",
+        "description": "Analyze large datasets to drive strategic decisions at Facebook.",
+        "work_mode": "Remote"
+    },
+    {
+        "title": "Frontend Developer",
+        "company": "Amazon",
+        "location": "Seattle, WA, USA",
+        "description": "Build intuitive user interfaces for Amazon's e-commerce platform.",
+        "work_mode": "Offline"
+    },
+    {
+        "title": "Backend Developer",
+        "company": "Microsoft",
+        "location": "Redmond, WA, USA",
+        "description": "Design and implement server-side components for Microsoft's services.",
+        "work_mode": "Hybrid"
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "Apple",
+        "location": "Cupertino, CA, USA",
+        "description": "Develop machine learning models to enhance Apple's products.",
+        "work_mode": "Remote"
+    },
+    {
+        "title": "DevOps Engineer",
+        "company": "Netflix",
+        "location": "Los Gatos, CA, USA",
+        "description": "Manage deployment pipelines and infrastructure for Netflix's streaming service.",
+        "work_mode": "Hybrid"
+    },
+    {
+        "title": "Cybersecurity Analyst",
+        "company": "IBM",
+        "location": "Armonk, NY, USA",
+        "description": "Protect IBM's systems and data from cyber threats.",
+        "work_mode": "Remote"
+    },
+    {
+        "title": "Cloud Architect",
+        "company": "Oracle",
+        "location": "Austin, TX, USA",
+        "description": "Design and oversee cloud computing strategies for Oracle's clients.",
+        "work_mode": "Hybrid"
+    },
+    {
+        "title": "Full Stack Developer",
+        "company": "Salesforce",
+        "location": "San Francisco, CA, USA",
+        "description": "Develop both client and server software for Salesforce applications.",
+        "work_mode": "Remote"
+    },
+    {
+        "title": "AI Research Scientist",
+        "company": "OpenAI",
+        "location": "San Francisco, CA, USA",
+        "description": "Conduct research to advance artificial intelligence capabilities.",
+        "work_mode": "Remote"
+    },
+    {
+        "title": "IT Consultant",
+        "company": "TCS",
+        "location": "Mumbai, India",
+        "description": "Provide IT solutions and consulting services to clients.",
+        "work_mode": "Hybrid"
+    },
+    {
+        "title": "Mobile App Developer",
+        "company": "TikTok",
+        "location": "Beijing, China",
+        "description": "Create and optimize TikTok's mobile applications.",
+        "work_mode": "Offline"
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Samsung",
+        "location": "Seoul, South Korea",
+        "description": "Develop software solutions for Samsung's consumer electronics.",
+        "work_mode": "Hybrid"
+    },
+    {
+        "title": "Network Engineer",
+        "company": "Cisco",
+        "location": "San Jose, CA, USA",
+        "description": "Design and maintain networking solutions.",
+        "work_mode": "Offline"
+    },
+    {
+        "title": "Security Engineer",
+        "company": "Cloudflare",
+        "location": "San Francisco, CA, USA",
+        "description": "Implement security strategies for web services.",
+        "work_mode": "Remote"
+    },
+    {
+        "title": "Game Developer",
+        "company": "Riot Games",
+        "location": "Los Angeles, CA, USA",
+        "description": "Develop and optimize online multiplayer games.",
+        "work_mode": "Hybrid"
+    },
+    {
+        "title": "Blockchain Engineer",
+        "company": "Binance",
+        "location": "Singapore",
+        "description": "Develop secure blockchain transactions.",
+        "work_mode": "Remote"
+    },
+    {
+        "title": "IoT Developer",
+        "company": "Bosch",
+        "location": "Stuttgart, Germany",
+        "description": "Develop IoT-based solutions for smart devices.",
+        "work_mode": "Hybrid"
+    },
+    {
+        "title": "System Administrator",
+        "company": "IBM",
+        "location": "Armonk, NY, USA",
+        "description": "Manage and maintain IT infrastructure.",
+        "work_mode": "Offline"
+    },
+    {
+        "title": "Embedded Systems Engineer",
+        "company": "Intel",
+        "location": "Santa Clara, CA, USA",
+        "description": "Develop firmware and embedded software for hardware products.",
+        "work_mode": "Hybrid"
+    },
+    {
+        "title": "Cloud Engineer",
+        "company": "Amazon Web Services",
+        "location": "Herndon, VA, USA",
+        "description": "Build and maintain AWS cloud infrastructure.",
+        "work_mode": "Remote"
+    },
+    {
+        "title": "Data Engineer",
+        "company": "LinkedIn",
+        "location": "Sunnyvale, CA, USA",
+        "description": "Develop and optimize large-scale data pipelines.",
+        "work_mode": "Remote"
+    },
+    {
+        "title": "AR/VR Developer",
+        "company": "Meta",
+        "location": "Menlo Park, CA, USA",
+        "description": "Build augmented and virtual reality experiences.",
+        "work_mode": "Hybrid"
+    },
+    {
+        "title": "Ethical Hacker",
+        "company": "Kaspersky",
+        "location": "Moscow, Russia",
+        "description": "Identify security vulnerabilities in corporate systems.",
+        "work_mode": "Remote"
+    },
+    {
+        "title": "Web3 Developer",
+        "company": "Ethereum Foundation",
+        "location": "Zurich, Switzerland",
+        "description": "Build decentralized applications using blockchain technology.",
+        "work_mode": "Remote"
+    },
+    {
+        "title": "Firmware Developer",
+        "company": "NVIDIA",
+        "location": "Santa Clara, CA, USA",
+        "description": "Develop firmware for high-performance computing systems.",
+        "work_mode": "Offline"
+    },
+    {
+        "title": "IT Support Technician",
+        "company": "HP",
+        "location": "Palo Alto, CA, USA",
+        "description": "Assist users with troubleshooting hardware and software issues.",
+        "work_mode": "Offline"
+    },
+    {
+        "title": "QA Engineer",
+        "company": "Snapchat",
+        "location": "Santa Monica, CA, USA",
+        "description": "Ensure application quality through rigorous testing.",
+        "work_mode": "Hybrid"
+    },
+    {
+        "title": "Software Architect",
+        "company": "Red Hat",
+        "location": "Raleigh, NC, USA",
+        "description": "Design and oversee large-scale software architecture projects.",
+        "work_mode": "Remote"
+    },
+    {
+        "title": "E-commerce Developer",
+        "company": "Shopify",
+        "location": "Ottawa, Canada",
+        "description": "Develop and optimize e-commerce solutions for online businesses.",
+        "work_mode": "Remote"
+    },
+    {
+        "title": "Cloud Security Engineer",
+        "company": "Microsoft Azure",
+        "location": "Redmond, WA, USA",
+        "description": "Ensure the security of cloud infrastructure and services.",
+        "work_mode": "Hybrid"
+    },
+    {
+        "title": "Database Administrator",
+        "company": "Oracle",
+        "location": "Austin, TX, USA",
+        "description": "Manage and optimize database systems for enterprise clients.",
+        "work_mode": "Offline"
+    }
+]
